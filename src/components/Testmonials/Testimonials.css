@@ -110,3 +110,23 @@
         font-size: 14px;
     }
 }
+
+@media (max-width: 400px) {
+    .testimonials {
+        padding: 0 0;
+    }
+
+    .user-info {
+        display: block;
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+    .user-info h3 {
+        font-size: 18px;
+    }
+
+    .slide {
+        font-size: 16px;
+    }
+}
